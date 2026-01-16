@@ -1,0 +1,76 @@
+{
+  "Memories": [
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Sapling",
+      "TranslationKey": "server.npcRoles.Kweebec_Sapling.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459058577,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Minnow",
+      "TranslationKey": "server.npcRoles.Minnow.name",
+      "IsMemoriesNameOverridden": false,
+      "CapturedTimestamp": 1768459152712,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Duck",
+      "TranslationKey": "server.npcRoles.Duck.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459020543,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Squirrel",
+      "TranslationKey": "server.npcRoles.Squirrel.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459117511,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Bunny",
+      "TranslationKey": "server.npcRoles.Bunny.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459105444,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Frog_Green",
+      "TranslationKey": "server.npcRoles.Frog_Green.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459014211,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Deer_Stag",
+      "TranslationKey": "server.npcRoles.Deer_Stag.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459099144,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Deer_Doe",
+      "TranslationKey": "server.npcRoles.Deer_Doe.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459105744,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    },
+    {
+      "Id": "NPC",
+      "NPCRole": "Kweebec_Seedling",
+      "TranslationKey": "server.npcRoles.Kweebec_Seedling.name",
+      "IsMemoriesNameOverridden": true,
+      "CapturedTimestamp": 1768459053044,
+      "FoundLocationNameKey": "server.map.region.ForgottenTemple"
+    }
+  ]
+}
